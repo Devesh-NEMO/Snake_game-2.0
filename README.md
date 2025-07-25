@@ -1,19 +1,28 @@
-# 🐍 React Snake Game
+# 🐍 Snake Game 2.0
 
-A smooth and modern Snake game built with **React**, **Vite**, and **Tailwind CSS**. Move the snake using arrow keys or WASD and eat the red food to grow longer. The game tracks your score and allows for quick restarts.
+A buttery smooth and responsive Snake Game built with **React + Vite** and styled using **Tailwind CSS**.
 
-## 🎮 Features
+## 🚀 Features
 
-- 💡 **React + Vite** for fast performance
-- 🎨 **Tailwind CSS** for beautiful UI
-- 🧠 Intelligent collision detection
-- 🚀 Real-time gameplay using `setInterval`
-- 🧱 Grid-based design
-- 🔁 Restart button for instant retry
-- 🧮 Score counter to track your progress
+- Real-time snake movement with arrow or WASD keys
+- Score counter with food pickup logic
+- Game Over and Restart functionality
+- Responsive and smooth 20x20 grid
+- Clean, dark-themed UI with Tailwind styling
 
-## 📦 Installation
+## 📸 Screenshots
 
-1. **Clone the repo:**
+![Snake Game Screenshot](./screenshot.png) <!-- Add a real screenshot file if available -->
 
+## 🧱 Tech Stack
 
+- ⚛️ React (with Hooks)
+- ⚡ Vite
+- 🎨 Tailwind CSS
+
+## 🛠️ Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Devesh-NEMO/Snake_game-2.0.git
+   cd Snake_game-2.0
