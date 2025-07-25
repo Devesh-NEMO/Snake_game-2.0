@@ -10,10 +10,6 @@ A buttery smooth and responsive Snake Game built with **React + Vite** and style
 - Responsive and smooth 20x20 grid
 - Clean, dark-themed UI with Tailwind styling
 
-## 📸 Screenshots
-
-![Snake Game Screenshot](./screenshot.png) <!-- Add a real screenshot file if available -->
-
 ## 🧱 Tech Stack
 
 - ⚛️ React (with Hooks)
